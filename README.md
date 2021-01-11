@@ -1,5 +1,5 @@
 <div align="center">
-<img height="260" src="./ghost_typ.gif" alt="Awesome operator">
+<img height="220" src="./ghost_typ.gif" alt="Awesome operator">
 
 <p align="center">
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
