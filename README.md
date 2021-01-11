@@ -15,7 +15,7 @@
 
 Hi there! I'm TarunBlaze, a random 21 y/o pleb on the internet.
 
-Speaks Hindi natively and English as a preffered language, currently learning Japanese.
+Speaks Hindi natively and English as a preferred language, currently learning Japanese.
 
 Loves to learn anything new. Feel free to reach me out ;)
 </div>
