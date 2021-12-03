@@ -14,7 +14,7 @@
 </p>
 
 ## 👋 &nbsp;Hi there! I'm TarunBlaze, 
-a random 21 y/o pleb on the internet.
+a random 22 y/o pleb on the internet.
 
 Speaks Hindi natively and English as a preferred language, currently learning Japanese.
 
