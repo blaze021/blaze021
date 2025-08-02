@@ -21,10 +21,6 @@ Speaks Hindi natively and English as a preferred language, currently learning Ja
 Loves to learn anything new. Feel free to reach me out ;)
 
 
-<p align="center">
-<a href="https://github.com/blaze021/">
-  <img height="180em" src="https://github-readme-stats-ten-murex.vercel.app/api?username=blaze021&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
-</a>
-</p>
+
 
 </div>
