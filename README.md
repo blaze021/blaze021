@@ -13,7 +13,7 @@
 <a href="mailto:tarunblaze@gmail.com">Email</a>
 </p>
 
-## 👋 &nbsp;Hi there! I'm TarunBlaze, 
+## 👋 &nbsp;Hi there! I'm xxxxxBlaze, 
 a random 22 y/o pleb on the internet.
 
 Speaks Hindi natively and English as a preferred language, currently learning Japanese.
